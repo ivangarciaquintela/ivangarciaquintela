@@ -1,9 +1,9 @@
 ### Hi there, I'm Ivan👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivangarciaquintela&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivangarciaquintela&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivangarciaquintela&theme=gotham&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivangarciaquintela&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivangarciaquintela&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivangarciaquintela&theme=github_dark&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivangarciaquintela&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivangarciaquintela&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivangarciaquintela&theme=gotham&utcOffset=3)
 
 # Languages I know
 - .NET at professional level
