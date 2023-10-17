@@ -5,7 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivangarciaquintela&theme=github_dark&utcOffset=3)
 
-
 # Languages I know
 - .NET at professional level
 - Python, Java, C++, C at high level
