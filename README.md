@@ -1,6 +1,6 @@
 ### Hi there, I'm Ivan👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivangarciaquintela&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivangarciaquintela&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivangarciaquintela&theme=githum_gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivangarciaquintela&theme=github_dark&utcOffset=3)
