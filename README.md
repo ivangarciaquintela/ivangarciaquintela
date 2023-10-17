@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ivan👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivangarciaquintela&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivangarciaquintela&theme=github_dark&utcOffset=3)
+
+
+# Languages I know
+- .NET at professional level
+- Python, Java, C++, C at high level
+- HTM, CSS, PHP, JavaScript at a medium level
+- Shell(bash) at intermediate level
+
+
 <!--
 **ivangarciaquintela/ivangarciaquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
